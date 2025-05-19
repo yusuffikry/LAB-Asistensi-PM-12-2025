@@ -1,6 +1,5 @@
 # LAB-Asistensi-PM-12-2025
 
-# LAB-Asistensi-PM-12-2025
 Repository tempat pengumpulan tugas praktikum Kelompok Asistensi 12 Lab Pemrograman Mobile Sistem Informasi
 
 ## Aturan Pengumpulan
