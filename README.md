@@ -7,7 +7,7 @@ Repository tempat pengumpulan tugas praktikum Kelompok Asistensi 12 Lab Pemrogra
 _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruksi yang ada dalam tanda < > tersebut. Contohnya `mkdir <NIM>` menjadi `mkdir H071221001`_
 - Silahkan fork repositori ini
 - Pada halaman fork, pastikan untuk mencentang 'Copy the `main` branch only'
-![sedikit catatan fork](https://i.ibb.co.com/39FNfqr3/Screenshot-2025-04-06-201436.png)
+![sedikit catatan fork](https://i.ibb.co/HDtshRk2/Screenshot-2025-05-19-190003.png)
 - Lakukan clone terhadap hasil fork repository ini ke komputer lokal kalian
   ```
   git clone <url-repositori-hasil-fork>
